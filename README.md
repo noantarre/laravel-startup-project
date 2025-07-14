@@ -34,10 +34,14 @@ O sistema simula a gestão de funcionários para uma startup.
 
 ### 1. Clone o projeto e entre na pasta
 
+
 ```bash
 git clone https://github.com/seuusuario/laravel-startup-project.git
 cd laravel-startup-project
-<img width="497" height="190" alt="listagem" s<img width="27<img width="554" height="258" alt="livewire" src="https://github.com/user-attachments/assets/427c8d61-7701-4083-889c-16f134736f5c" />
-8" height="278" alt="criar" src="https://github.com/user-attachments/assets/f5691785-d11f-428a-a1a3-b1df8ea1f418" />
-rc="https://github.com/user-attachments/assets/dde0c1ce-12b5-4ef6-88d9-613029d9922e" />
+
+
+
+<img width="278" height="278" alt="criar" src="https://github.com/user-attachments/assets/c8663f59-af94-40c5-8399-e8c99a703829" />
+<img width="554" height="258" alt="livewire" src="https://github.com/user-attachments/assets/27f6f984-f490-4624-9c7b-cc52fae60a24" />
+<img width="497" height="190" alt="listagem" src="https://github.com/user-attachments/assets/771bd1b0-288f-45ef-8fed-b03e5c1314d9" />
 
